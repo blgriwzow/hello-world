@@ -13,3 +13,6 @@ your **adventure** into coding and software development can take you almost **an
 - Be engaged and open-minded.
 
 [daily.dev](https://daily.dev/)
+
+![MyLibrary](https://github.com/blgriwzow/hello-world/assets/107067628/2578d864-6ba1-41aa-9c72-5aed38f1b3c5)
+
